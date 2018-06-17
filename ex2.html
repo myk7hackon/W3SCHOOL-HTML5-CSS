@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<img src="w3schools.jpg" width="250" height="400">
+
+</body>
+</html>
